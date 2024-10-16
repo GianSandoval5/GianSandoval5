@@ -28,7 +28,7 @@
  <a href="https://www.instagram.com/giansando5/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
  <a href="https://www.linkedin.com/in/giansandoval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
 <a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=giansando2022@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-D02929?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   
+<a href="https://www.facebook.com/giansando7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"</a> 
  </div>
 
 
