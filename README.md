@@ -6,11 +6,10 @@
 - 👨🏻‍💻 Soy Ingeniero de Sistemas.<br>
 - 🔭 Actualmente trabajo en proyectos personales y para clientes, empresas, etc.<br>
 - 🌱 Me enfoco en el desarrollo móvil y web con Futter 🌘<br>
-- 🧠 I'm constantly learning various technologies.. <br>
+- 🧠 Estoy constantemente aprendiendo varias tecnologías. <br>
 - 📱👨🏻‍💻 FrontEnd y Backend con Flutter/Dart. <br>
 - 👨🏻‍💻 Soy Lider de la comunidad de Flutter Piura en Perú 🇵🇪. <br>
 - ☕ Flutter developer Senior. <br>
-- 🧑🏻‍🏫 Experiencia enseñando programación a diferentes estudiantes.<br>
 - 🧑🏻‍🏫 Experiencia enseñando programación a diferentes estudiantes.<br>
 - 🗣️ Hablo español pero estoy aprendiendo Ingles.<br>
 
