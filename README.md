@@ -45,6 +45,52 @@
   </ul>
 </details>
 
+<p align="center">
+  <img src="banner.png" width="100%"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B3FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Gian+Sandoval;Flutter+Developer+%7C+FullStack;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%92%BB;Bienvenido+a+mi+GitHub!"/>
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="120px"/>
+</p>
+
+<h3 align="center">🚀 Desarrollador Senior Flutter | Backend & Frontend | Mentor | Speaker</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Dart-Professional-blue?style=for-the-badge&logo=dart"/>
+  <img src="https://img.shields.io/badge/Community%20Leader-Piura%20Flutter-orange?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=GianSandoval5&style=for-the-badge" alt="profile views"/>
+</p>
+
+<details open>
+  <summary><b>👨🏻‍💻 Sobre mí</b></summary>
+  <p>
+    <b>Gian Sandoval</b> (<i>Giancarlos Enrique Sandoval Tume</i>) es un <b>ingeniero de sistemas</b> y <b>Flutter Developer Senior</b> peruano, con experiencia desde 2019 en desarrollo de apps multiplataforma (Android, iOS, web).<br><br>
+    <b>Fundador y líder de Flutter Piura</b>, comunidad activa en Piura (Perú) dedicada a la promoción y enseñanza de Flutter, creada el <b>20 de febrero de 2024</b> y reconocida oficialmente por Google el <b>26 de noviembre de 2024</b>.<br><br>
+    Instructor y speaker en Flutter, ofreciendo charlas, talleres y cursos web (por ejemplo, webinar gratuito para principiantes en marzo).<br><br>
+    <b>Experto en Firebase</b>, con experiencia en integraciones en tiempo real y conferencias técnicas.<br><br>
+    Actualmente, programador analista en la <b>Cooperativa de Ahorro y Créditos Santa Isabel</b>, Piura.<br><br>
+    En redes sociales se presenta como:<br>
+    <i>Flutter Developer Senior || Líder de Flutter Piura || Speaker || Instructor Flutter || Firebase Expert</i>
+  </p>
+</details>
+
+<details open>
+  <summary><b>🏆 Logros y Reconocimientos</b></summary>
+  <ul>
+    <li>� +20 apps publicadas en tiendas (Android/iOS/Web)</li>
+    <li>🎤 Speaker en eventos y webinars de tecnología</li>
+    <li>🌎 Mentor de estudiantes y desarrolladores Flutter</li>
+    <li>🏅 Fundador y líder de Flutter Piura, comunidad reconocida por Google</li>
+    <li>🔥 Conferencista sobre Firebase e integraciones en tiempo real</li>
+    <li>🏢 Programador analista en Cooperativa Santa Isabel</li>
+  </ul>
+</details>
+
 <hr>
 <!--Skill And More Information-->
 <div align="center">
@@ -93,13 +139,8 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 </p>
 
-<hr>
-<h2 align="center">🎯 ¿En qué estoy trabajando ahora?</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B3FF&center=true&vCenter=true&width=500&lines=Desarrollando+apps+con+Flutter;Mentor%C3%ADas+y+workshops;Colaborando+con+la+comunidad;Aprendiendo+nuevas+tecnolog%C3%ADas"/>
-</p>
 
-<i><b>Nota:</b> Para más información sobre mi experiencia puedes contactarme en cualquiera de mis redes.</i>
+<i><b>Note:</b> Para más información sobre mi experiencia puedes contactarme en cualquiera de mis redes.</i>
 
 
 
