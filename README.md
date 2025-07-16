@@ -20,8 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=GianSandoval5&style=for-the-badge" alt="profile views"/>
 </p>
 
-
-
 <details open>
   <summary><b>👨🏻‍💻 Sobre mí</b></summary>
   <p>
@@ -33,26 +31,12 @@
     En redes sociales se presenta como:<br>
     <i>Flutter Developer Senior || Líder de Flutter Piura || Speaker || Instructor Flutter || Firebase Expert</i>
   </p>
-  <ul>
-    <li>👨🏻‍💻 Ingeniero de Sistemas</li>
-    <li>🔭 Proyectos personales y empresariales</li>
-    <li>🌱 Desarrollo móvil y web con <b>Flutter</b> 🌘</li>
-    <li>🧠 Aprendiz constante de nuevas tecnologías</li>
-    <li>📱 FrontEnd y Backend con Flutter/Dart</li>
-    <li>👨🏻‍💻 Líder de la comunidad Flutter Piura 🇵🇪</li>
-    <li>☕ Flutter developer Senior desde 2019</li>
-    <li>🧑🏻‍🏫 Instructor y speaker en Flutter</li>
-    <li>🔥 Experto en Firebase</li>
-    <li>🏢 Programador analista en Cooperativa Santa Isabel</li>
-    <li>🗣️ Español nativo, aprendiendo inglés</li>
-  </ul>
 </details>
-
 
 <details open>
   <summary><b>🏆 Logros y Reconocimientos</b></summary>
   <ul>
-    <li>🥇 +20 apps publicadas en tiendas (Android/iOS/Web)</li>
+    <li>� +20 apps publicadas en tiendas (Android/iOS/Web)</li>
     <li>🎤 Speaker en eventos y webinars de tecnología</li>
     <li>🌎 Mentor de estudiantes y desarrolladores Flutter</li>
     <li>🏅 Fundador y líder de Flutter Piura, comunidad reconocida por Google</li>
@@ -60,17 +44,6 @@
     <li>🏢 Programador analista en Cooperativa Santa Isabel</li>
   </ul>
 </details>
-
-<details>
-  <summary><b>📱 Portafolio Destacado</b></summary>
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/674621/159151948-5b1a4a4a-6b7b-4a7e-8b7b-7e7d6b7b7b7b.gif" width="250px"/>
-    <img src="https://user-images.githubusercontent.com/674621/159151949-7b1a4a4a-6b7b-4a7e-8b7b-7e7d6b7b7b7b.gif" width="250px"/>
-    <img src="https://user-images.githubusercontent.com/674621/159151950-9b1a4a4a-6b7b-4a7e-8b7b-7e7d6b7b7b7b.gif" width="250px"/>
-  </p>
-  <p align="center">¡Descubre más en mis redes sociales!</p>
-</details>
-
 
 <hr>
 <!--Skill And More Information-->
@@ -89,7 +62,6 @@
   <a href="mailto:giansando2022@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D02929?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/giansando7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
-
 
 <hr>
 <h2 align="center">⚡ Tecnologías y Herramientas</h2>
@@ -128,5 +100,3 @@
 </p>
 
 <i><b>Nota:</b> Para más información sobre mi experiencia puedes contactarme en cualquiera de mis redes.</i>
-
-
