@@ -9,6 +9,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="120px"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFmbWhqenhxbnlmMWQ4d3M5NndvZXNyNzRqd2QycmZrNTRnbnhreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/18jDVuueksHpPjRd3e/giphy.gif" width="120px"/>
 </p>
 
 <h3 align="center">🚀 Desarrollador Senior Flutter | Backend & Frontend | Mentor | Speaker</h3>
