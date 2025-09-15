@@ -6,35 +6,30 @@
 
 <!-- Título Animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=👋+Hola%2C+soy+Gian+Sandoval;🚀+Senior+Flutter+Developer;💡+Tech+Leader+%26+Community+Builder;🎯+Transformando+ideas+en+realidad;⚡+Bienvenido+a+mi+universo+digital!" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=👋+Hola%2C+soy+Gian+Sandoval;Flutter+Developer+desde+2019;Speaker+•+Mentor+•+Instructor;L%C3%ADder+de+Flutter+Piura;Apps+en+Play+Store" alt="Typing Animation"/>
+  
 </div>
 
 <!-- Animaciones y elementos visuales -->
 <div align="center">
   <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100px"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80px"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW10cmZuaWNvZmdvamQ5Ynl0Y3h2MzNmYmU2bWRwOXI3cjBiY29kayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X7fEe3cUlaeJKv2O0L/giphy.gif" width="120px"/>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100px"/>
 </div>
 
-<!-- Título Principal Mejorado -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-  <b>🏆 Senior Flutter Developer | Tech Leader | Community Builder</b>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-</h2>
+<!-- Título Principal (con animación arriba) -->
 
-<!-- Badges Profesionales Mejorados -->
+<!-- Badges Profesionales -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀_Flutter-Expert_Level-00D4FF?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎯_Dart-Professional-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🔥_Firebase-Expert-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/👑_Community_Leader-Flutter_Piura-FF6B35?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🚀_Flutter-Desde_2019-00D4FF?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎯_Dart-Avanzado-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔥_Firebase-40%2B_proyectos-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/👑_Flutter_Piura-150%2B_miembros-FF6B35?style=for-the-badge&logo=flutter&logoColor=white"/>
+  
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/💼_Experience-6+_Years-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📱_Apps_Published-20+-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💼_Experiencia-Desde_2019-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📱_Apps_en_Play_Store-Disponibles-blue?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=GianSandoval5&style=for-the-badge&color=00D4FF" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/GianSandoval5?style=for-the-badge&color=00D4FF&logo=github"/>
 </div>
@@ -50,43 +45,27 @@
 **Gian Sandoval** *(Giancarlos Enrique Sandoval Tume)* - **Senior Flutter Developer** con **6+ años de experiencia** transformando ideas en aplicaciones excepcionales.
 
 ### 🎯 **Especialidades Clave**
-- 📱 **Desarrollo Multiplataforma**: Android, iOS, Web & Desktop
-- 🔥 **Firebase Expert**: Arquitecturas escalables y tiempo real
-- 👥 **Tech Leadership**: Fundador de Flutter Piura (reconocida por Google)
-- 🎤 **Speaker & Mentor**: +50 charlas técnicas y workshops
-- 💼 **Analista Senior**: Cooperativa Santa Isabel, Piura
+- 📱 **Desarrollo Multiplataforma**: Android, iOS, Web y Desktop
+- 🔥 **Firebase**: 40+ proyectos (producción y personales)
+- 👥 **Liderazgo y Comunidad**: Fundador de Flutter Piura
+- 🎤 **Speaker, Mentor e Instructor Flutter**: eventos y universidades
+- 💼 **CEO & Founder**: Fluppione Software SAC
+- 🌎 **Idiomas**: Español (nativo) e Inglés (básico)
+- 🧑‍💻 **Open Source**: 30+ repositorios en GitHub
 
 ### 🌟 **Impacto y Alcance**
 ```
 📈 Métricas de Impacto:
-├── 📱 20+ Apps en producción
-├── 🏢 Soluciones empresariales implementadas
-├── 👥 500+ desarrolladores mentoreados
-├── 🎤 50+ charlas y workshops dictados
-└── 🌎 Comunidad de 1000+ miembros en Flutter Piura
+├── 📱 Apps en Play Store
+├── 🔥 40+ proyectos con Firebase
+├── 🧑‍� 30+ repositorios de código abierto en GitHub
+├── � Eventos en universidades: formación a alumnos y docentes
+└── 👥 Comunidad Flutter Piura: 150+ miembros
 ```
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Logros Destacados</b>
-
-<div align="center">
-
-| 🏆 **Reconocimientos** | 📊 **Impacto** |
-|:---:|:---:|
-| 🥇 Comunidad Google Reconocida | 📱 20+ Apps Publicadas |
-| 🎯 6+ Años de Experiencia | 👥 500+ Desarrolladores Mentoreados |
-| 🔥 Firebase Expert Certificado | � 50+ Presentaciones Técnicas |
-| 🌟 Tech Leader Piura | 📈 Solutions Architecture |
-
-</div>
-
-### 🎖️ **Certificaciones y Reconocimientos**
-- 🏅 **Google-Recognized Community Leader** - Flutter Piura
-- 🔥 **Firebase Expert** - Arquitecturas avanzadas
-- 🎯 **Senior Flutter Developer** - 6+ años de experiencia
-- 🌟 **Tech Speaker** - Eventos nacionales e internacionales
-- 💼 **Solutions Architect** - Cooperativa Santa Isabel
+<!-- Certificaciones y reconocimientos: sección removida para evitar claims no confirmados -->
 
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub</b>
@@ -146,7 +125,7 @@
 
 ### 💻 **Lenguajes & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,java,js,python,php,html,css,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,js,python,php,html,css,mysql,nodejs,cpp&theme=dark" />
 
 ### ☁️ **Cloud & DevOps**
 
@@ -162,10 +141,10 @@
 
 | 🚀 **Tipo de Proyecto** | 📊 **Alcance** | 🎯 **Tecnologías** |
 |:---:|:---:|:---:|
-| 📱 **Apps Móviles** | 20+ publicadas | Flutter, Firebase, APIs REST |
+| 📱 **Apps Móviles** | Algunas en Play Store | Flutter, Firebase, REST APIs |
 | 🏢 **Soluciones Empresariales** | Cooperativa Santa Isabel | Flutter, MySQL, Firebase |
-| 🌐 **Plataformas Web** | Múltiples clientes | Flutter Web, Firebase Hosting |
-| 📚 **Contenido Educativo** | 500+ estudiantes | YouTube, TikTok, Workshops |
+| 🌐 **Plataformas Web** | Clientes y uso personal | Flutter Web, Firebase Hosting |
+| 🎓 **Formación & Comunidad** | Universidades y GDG Piura | Charlas, talleres, mentorías |
 
 </div>
 
@@ -174,8 +153,8 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **Flutter Piura Community**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆_Google_Recognized-Flutter_Piura_Community-4285F4?style=for-the-badge&logo=google"/>
-  <img src="https://img.shields.io/badge/👥_Miembros-1000+-00D4FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/�_Flutter_Piura-Comunidad-4285F4?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/👥_Miembros-150+-00D4FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📅_Fundada-Feb_2024-success?style=for-the-badge"/>
 </div>
 
@@ -187,10 +166,6 @@ Promover el desarrollo de aplicaciones Flutter en Perú, creando una comunidad s
 <div align="center">
 
 ### 💡 **"Transformando ideas en experiencias digitales excepcionales"**
-
-<img src="https://img.shields.io/badge/⚡_Disponible_para-Colaboraciones_y_Proyectos-00D4FF?style=for-the-badge"/>
-
----
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 
