@@ -6,8 +6,7 @@
 
 <!-- Título Animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=👋+Hola%2C+soy+Gian+Sandoval;Flutter+Developer+desde+2019;Speaker+•+Mentor+•+Instructor;L%C3%ADder+de+Flutter+Piura;Apps+en+Play+Store" alt="Typing Animation"/>
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Gian+Sandoval;Flutter+Developer+desde+2019;Speaker+Mentor+Instructor;Lider+de+Flutter+Piura;Apps+en+Play+Store" alt="Typing Animation"/>
 </div>
 
 <!-- Animaciones y elementos visuales -->
