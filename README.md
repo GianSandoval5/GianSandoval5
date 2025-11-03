@@ -1,22 +1,3 @@
-
-<!-- Banner Principal -->
-<div align="center">
-  <img src="banner.png" width="100%" alt="Gian Sandoval Banner"/>
-</div>
-
-<!-- Título Animado -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Gian+Sandoval;Flutter+Developer+desde+2019;Speaker+Mentor+Instructor;Lider+de+Flutter+Piura;Apps+en+Play+Store" alt="Typing Animation"/>
-</div>
-
-<!-- Animaciones y elementos visuales -->
-<div align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100px"/>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100px"/>
-</div>
-
-<!-- Título Principal (con animación arriba) -->
-
 <!-- Badges Profesionales -->
 <div align="center">
   <img src="https://img.shields.io/badge/🚀_Flutter-Desde_2019-00D4FF?style=for-the-badge&logo=flutter&logoColor=white"/>
