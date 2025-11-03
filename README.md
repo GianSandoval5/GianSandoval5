@@ -1,21 +1,3 @@
-<!-- Badges Profesionales -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀_Flutter-Desde_2019-00D4FF?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎯_Dart-Avanzado-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🔥_Firebase-40%2B_proyectos-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/👑_Flutter_Piura-150%2B_miembros-FF6B35?style=for-the-badge&logo=flutter&logoColor=white"/>
-  
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💼_Experiencia-Desde_2019-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📱_Apps_en_Play_Store-Disponibles-blue?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=GianSandoval5&style=for-the-badge&color=00D4FF" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/GianSandoval5?style=for-the-badge&color=00D4FF&logo=github"/>
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding gif" width="400" height="320"/>
