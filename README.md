@@ -15,8 +15,6 @@
 - 🌎 **Idiomas**: Español (nativo) e Inglés (básico)
 - 🧑‍💻 **Open Source**: 30+ repositorios en GitHub
 
----
-
 <!-- Certificaciones y reconocimientos: sección removida para evitar claims no confirmados -->
 
 ---
