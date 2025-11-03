@@ -15,16 +15,6 @@
 - 🌎 **Idiomas**: Español (nativo) e Inglés (básico)
 - 🧑‍💻 **Open Source**: 30+ repositorios en GitHub
 
-### 🌟 **Impacto y Alcance**
-```
-📈 Métricas de Impacto:
-├── 📱 Apps en Play Store
-├── 🔥 40+ proyectos con Firebase
-├── 🧑‍� 30+ repositorios de código abierto en GitHub
-├── � Eventos en universidades: formación a alumnos y docentes
-└── 👥 Comunidad Flutter Piura: 150+ miembros
-```
-
 ---
 
 <!-- Certificaciones y reconocimientos: sección removida para evitar claims no confirmados -->
