@@ -85,21 +85,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> **Proyectos Destacados**
-
-<div align="center">
-
-| 🚀 **Tipo de Proyecto** | 📊 **Alcance** | 🎯 **Tecnologías** |
-|:---:|:---:|:---:|
-| 📱 **Apps Móviles** | Algunas en Play Store | Flutter, Firebase, REST APIs |
-| 🏢 **Soluciones Empresariales** | Cooperativa Santa Isabel | Flutter, MySQL, Firebase |
-| 🌐 **Plataformas Web** | Clientes y uso personal | Flutter Web, Firebase Hosting |
-| 🎓 **Formación & Comunidad** | Universidades y GDG Piura | Charlas, talleres, mentorías |
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **Flutter Piura Community**
 
 <div align="center">
