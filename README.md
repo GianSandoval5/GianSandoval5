@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:2563EB,100:06B6D4&text=Giancarlos%20Sandoval&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Architect%20%7C%20Mobile%20Tech%20Lead%20%7C%20Flutter%20%26%20React%20Native%20Expert&descAlignY=58&descSize=17" alt="Giancarlos Sandoval - Software Architect" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0F172A,45:2563EB,100:06B6D4&amp;text=Giancarlos%20Sandoval&amp;fontColor=FFFFFF&amp;fontSize=48&amp;fontAlignY=38&amp;desc=Software%20Architect%20%7C%20Mobile%20Tech%20Lead%20%7C%20Flutter%20and%20React%20Native%20Expert&amp;descAlignY=58&amp;descSize=17" alt="Giancarlos Sandoval - Software Architect" />
 </p>
 
 <p align="center">
@@ -148,16 +148,16 @@ These are the kinds of projects I am building and improving around my engineerin
 ## 📊 GitHub analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GianSandoval5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianSandoval5&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GianSandoval5&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianSandoval5&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GianSandoval5&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=GianSandoval5&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GianSandoval5&theme=tokyonight" alt="GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GianSandoval5&amp;theme=tokyonight" alt="GitHub profile summary" />
 </p>
 
 ---
@@ -173,5 +173,5 @@ I am open to collaborating on **mobile architecture, Flutter, React Native, Fire
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,55:2563EB,100:0F172A&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:06B6D4,55:2563EB,100:0F172A&amp;section=footer" alt="Footer" />
 </p>
