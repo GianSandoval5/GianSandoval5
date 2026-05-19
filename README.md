@@ -127,12 +127,12 @@ These are the kinds of projects I am building and improving around my engineerin
 
 | Project idea | Why it matters |
 |---|---|
-| `flutter_enterprise_architecture` | Production-ready Flutter starter with Clean Architecture, testing and CI/CD |
-| `react-native-enterprise-starter` | Enterprise React Native foundation with TypeScript, API contracts and reusable components |
-| `mobile_microapps_architecture` | Reference architecture for large-scale mobile apps using independent modules |
-| `mobile_api_contract_validator` | CLI tool to detect breaking changes between backend APIs and mobile clients |
-| `flutter_firebase_mobility_kit` | Realtime mobility starter with Firebase, Maps, tracking and background services |
-| `mobile_release_playbook` | CI/CD templates, release checklists, ADRs and mobile delivery guidelines |
+| [`flutter_enterprise_architecture`](https://github.com/GianSandoval5/flutter_enterprise_architecture) | Production-ready Flutter starter with Clean Architecture, testing and CI/CD |
+| [`react-native-enterprise-starter`](https://github.com/GianSandoval5/react-native-enterprise-starter) | Enterprise React Native foundation with TypeScript, API contracts and reusable components |
+| [`mobile_microapps_architecture`](https://github.com/GianSandoval5/mobile_microapps_architecture) | Reference architecture for large-scale mobile apps using independent modules |
+| [`mobile_api_contract_validator`](https://github.com/GianSandoval5/mobile_api_contract_validator) | CLI tool to detect breaking changes between backend APIs and mobile clients |
+| [`flutter_firebase_mobility_kit`](https://github.com/GianSandoval5/flutter_firebase_mobility_kit) | Realtime mobility starter with Firebase, Maps, tracking and background services |
+| [`flutter_banking_architecture_kit`](https://github.com/GianSandoval5/flutter_banking_architecture_kit) | Banking-ready Flutter architecture kit with secure flows, modular features and enterprise delivery patterns |
 
 ---
 
