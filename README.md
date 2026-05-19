@@ -1,119 +1,177 @@
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:2563EB,100:06B6D4&text=Giancarlos%20Sandoval&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Architect%20%7C%20Mobile%20Tech%20Lead%20%7C%20Flutter%20%26%20React%20Native%20Expert&descAlignY=58&descSize=17" alt="Giancarlos Sandoval - Software Architect" />
+</p>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding gif" width="400" height="320"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Building+scalable+mobile+architectures;Flutter+%7C+React+Native+%7C+Firebase+%7C+Node.js;Clean+Architecture+%7C+Microapps+%7C+CI%2FCD;Open+Source+Packages+%26+Reusable+Mobile+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
-### 🚀 **Perfil Profesional**
-
-**Gian Sandoval** *(Giancarlos Enrique Sandoval Tume)* - **Senior Flutter Developer** con **6+ años de experiencia** transformando ideas en aplicaciones excepcionales.
-
-### 🎯 **Especialidades Clave**
-- 📱 **Desarrollo Multiplataforma**: Android, iOS, Web y Desktop
-- 🔥 **Firebase**: 40+ proyectos (producción y personales)
-- 👥 **Liderazgo y Comunidad**: Fundador de Flutter Piura
-- 🎤 **Speaker, Mentor e Instructor Flutter**: eventos y universidades
-- 💼 **CEO & Founder**: Fluppione Software SAC
-- 🌎 **Idiomas**: Español (nativo) e Inglés (básico)
-- 🧑‍💻 **Open Source**: 30+ repositorios en GitHub
-
-<!-- Certificaciones y reconocimientos: sección removida para evitar claims no confirmados -->
-
----
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub</b>
-<div align="center">
-<a href="https://github.com/GianSandoval5">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GianSandoval5&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&locale=es&theme=dark" alt="Gian Sandoval github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianSandoval5&layout=compact&hide_border=true&title_color=00D4FF&text_color=00D4FF&bg_color=0d1117&locale=es&theme=dark" />
-</a>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=GianSandoval5&theme=react-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true"/>
-</div>
+<p align="center">
+  <a href="https://giansandoval.com"><img src="https://img.shields.io/badge/Portfolio-giansandoval.com-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/giansandoval"><img src="https://img.shields.io/badge/LinkedIn-giansandoval-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:giansando2022@gmail.com"><img src="https://img.shields.io/badge/Email-giansando2022%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/GianSandoval5?tab=followers"><img src="https://img.shields.io/github/followers/GianSandoval5?style=for-the-badge&logo=github&label=Follow" alt="GitHub followers" /></a>
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"><b> Conecta Conmigo</b>
+## 👋 About me
 
-<div align="center">
+I am **Giancarlos Sandoval**, a **Software Architect & Mobile Tech Lead** from Piura, Peru, focused on building **scalable mobile and full stack solutions** for banking, fintech, tourism, healthcare, transportation and enterprise platforms.
 
-### 🌐 **Redes Sociales & Contacto**
+I specialize in **Flutter, React Native, Clean Architecture, microapps, modular systems, real-time mobile services, Firebase, Node.js, CI/CD and reusable developer tools**.
 
-<a href="https://www.youtube.com/@flutteres" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://www.linkedin.com/in/giansandoval/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/giansando5/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.tiktok.com/@flutter_es?lang=es" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-</a>
+I enjoy transforming complex product requirements into maintainable architectures, reusable packages and production-ready mobile experiences.
 
-<a href="mailto:giansando2022@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.facebook.com/giansando7/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-### 💬 **¿Tienes un proyecto en mente?**
-<img src="https://img.shields.io/badge/💡_¡Hablemos!-Disponible_para_colaboraciones-00D4FF?style=for-the-badge"/>
-
-</div>
+```txt
+Software Architecture  ──►  scalable foundations
+Mobile Engineering     ──►  Flutter · React Native · Native integrations
+Enterprise Frontend    ──►  API contracts · error handling · design systems
+Cloud & Realtime       ──►  Firebase · Firestore · Functions · Node.js
+Engineering Quality    ──►  testing · CI/CD · releases · code review
+Open Source            ──►  packages · libraries · documentation · tooling
+```
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Stack Tecnológico**
+## 🚀 Current focus
 
-<div align="center">
-
-### 🛠️ **Herramientas de Desarrollo**
-
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,figma,postman,firebase&theme=dark" />
-
-### 💻 **Lenguajes & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,js,python,php,html,css,mysql,nodejs,cpp&theme=dark" />
-
-### ☁️ **Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=firebase,gcp,docker,linux&theme=dark" />
-
-</div>
+- 🏦 Leading frontend mobile initiatives for **enterprise banking environments**.
+- 🧱 Designing **mobile architectures** based on Clean Architecture, modularization and microapps.
+- 📦 Building **Flutter packages** and **React Native libraries** focused on productivity, UI and reusable systems.
+- 🧪 Improving delivery quality through **testing, CI/CD, code review and release management**.
+- 🌎 Growing developer communities through **Flutter Piura** and cloud/mobile learning initiatives.
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **Flutter Piura Community**
+## 🧠 Architecture mindset
 
-<div align="center">
-  <img src="https://img.shields.io/badge/�_Flutter_Piura-Comunidad-4285F4?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/👥_Miembros-150+-00D4FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📅_Fundada-Feb_2024-success?style=for-the-badge"/>
-</div>
+```mermaid
+flowchart LR
+    A[Product Problem] --> B[Technical Discovery]
+    B --> C[Architecture Decision]
+    C --> D[Modular Implementation]
+    D --> E[API Contracts]
+    E --> F[Testing & CI/CD]
+    F --> G[Production Release]
+    G --> H[Monitoring & Iteration]
+```
 
-### 🎯 **Nuestra Misión**
-Promover el desarrollo de aplicaciones Flutter en Perú, creando una comunidad sólida de desarrolladores que compartan conocimiento y experiencias.
-
----
-
-<div align="center">
-
-### 💡 **"Transformando ideas en experiencias digitales excepcionales"**
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-
-***¿Listo para llevar tu proyecto al siguiente nivel?***  
-**¡Conectemos y hagamos algo increíble juntos!** 🚀
+I believe strong mobile architecture is not about adding complexity.  
+It is about creating clear boundaries, reusable components and predictable delivery.
 
 ---
 
-<sub>💙 **Desarrollado con pasión por la tecnología y la comunidad Flutter** 💙</sub>
+## 🛠️ Tech stack
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,nextjs,nodejs,firebase,java,spring,php,laravel,mysql,postgres,redis,git,github,githubactions,figma,aws&perline=10" alt="Tech stack" />
+</p>
 
+### Core expertise
 
+| Area | Technologies & Practices |
+|---|---|
+| **Mobile Architecture** | Flutter, Dart, React Native, Clean Architecture, Modular Architecture, Microapps, SOLID |
+| **Frontend Engineering** | React, Next.js, TypeScript, JavaScript, Component Architecture, Design Systems |
+| **Backend & Cloud** | Node.js, Firebase, Firestore, Firebase Functions, REST APIs, Laravel/PHP, Java, Spring Boot |
+| **Databases** | MySQL, MariaDB, PostgreSQL, Redis, Firestore, Realtime Database |
+| **Quality & DevOps** | Git, GitHub, CI/CD, Unit Testing, TDD, Code Review, Release Management |
+| **Open Source** | Flutter Packages, React Native Libraries, SDK Design, Technical Documentation, Semantic Versioning |
 
+---
 
+## 📦 Open Source & Libraries
 
+I build packages and libraries that help mobile teams move faster with better architecture and reusable components.
+
+### Flutter packages
+
+| Package | Focus |
+|---|---|
+| [`screaming_architecture`](https://pub.dev/packages/screaming_architecture) | Feature-first architecture generator based on modular/domain organization |
+| [`modal_date_picker`](https://pub.dev/packages/modal_date_picker) | Advanced cross-platform date picker for Flutter |
+| [`share_image_whatsapp`](https://pub.dev/packages/share_image_whatsapp) | Plugin for sharing text, images and QR codes to WhatsApp |
+| [`flutter_animated_bubble_background`](https://pub.dev/packages/flutter_animated_bubble_background) | Reusable animated background component for Flutter UIs |
+
+### React Native libraries
+
+| Library | Focus |
+|---|---|
+| [`react-native-custom-keyboard-pro`](https://www.npmjs.com/package/react-native-custom-keyboard-pro) | Customizable keyboard with layouts, animations and mobile UX focus |
+| [`react-native-sliver`](https://www.npmjs.com/package/react-native-sliver) | Advanced scroll composition inspired by Flutter Slivers for React Native |
+
+---
+
+## 🧩 Featured engineering themes
+
+### 🏗️ Enterprise Mobile Architecture
+I design scalable foundations for mobile apps that need to grow beyond the first MVP: routing, data layers, error handling, state management, feature modules, API contracts and release workflows.
+
+### 🔁 Reusable Mobile Systems
+I create packages, libraries, UI components, design systems and internal APIs that reduce duplication and improve consistency across teams.
+
+### ⚡ Realtime Experiences
+I build mobile solutions with realtime synchronization, geolocation, notifications, background services and cloud integrations using Firebase, Firestore, Google Maps and Node.js.
+
+### 🧪 Engineering Quality
+I care about maintainability, tests, code review, CI/CD, technical documentation and clean boundaries between presentation, domain and data layers.
+
+---
+
+## 🧭 Open Source roadmap
+
+These are the kinds of projects I am building and improving around my engineering focus:
+
+| Project idea | Why it matters |
+|---|---|
+| `flutter_enterprise_architecture` | Production-ready Flutter starter with Clean Architecture, testing and CI/CD |
+| `react-native-enterprise-starter` | Enterprise React Native foundation with TypeScript, API contracts and reusable components |
+| `mobile_microapps_architecture` | Reference architecture for large-scale mobile apps using independent modules |
+| `mobile_api_contract_validator` | CLI tool to detect breaking changes between backend APIs and mobile clients |
+| `flutter_firebase_mobility_kit` | Realtime mobility starter with Firebase, Maps, tracking and background services |
+| `mobile_release_playbook` | CI/CD templates, release checklists, ADRs and mobile delivery guidelines |
+
+---
+
+## 🌎 Community & leadership
+
+- Founder & Lead Organizer at **Flutter Piura**.
+- Mobile & Full Stack instructor focused on real-world projects, architecture and employability.
+- AWS User Group Leader for **AWS Piura**.
+- Advocate for technical communities, workshops, mentoring and practical engineering education.
+
+---
+
+## 📊 GitHub analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GianSandoval5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianSandoval5&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GianSandoval5&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GianSandoval5&theme=tokyonight" alt="GitHub profile summary" />
+</p>
+
+---
+
+## 🤝 Let's connect
+
+I am open to collaborating on **mobile architecture, Flutter, React Native, Firebase, developer tools, open source packages and technical communities**.
+
+<p align="center">
+  <a href="https://linkedin.com/in/giansandoval"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:giansando2022@gmail.com"><img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://giansandoval.com"><img src="https://img.shields.io/badge/View_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,55:2563EB,100:0F172A&section=footer" alt="Footer" />
+</p>
